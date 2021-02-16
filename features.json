@@ -1,0 +1,26 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Test label",
+        "icon": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.1164578, 49.2071181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Test label 2",
+        "icon": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.1164578, 50.2071181]
+      }
+    }
+  ]
+}
